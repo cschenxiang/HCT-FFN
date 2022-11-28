@@ -51,7 +51,7 @@ If needed, please download from [Google Drive](https://drive.google.com/file/d/1
 
 ## Performance Evaluation
 
-All PSNR and SSIM results are computed by using this [Matlab Code](https://github.com/hongwang01/RCDNet/tree/master/Performance_evaluation), based on Y channel of YCbCr space.
+The PSNR and SSIM results are computed by using this [Matlab Code](https://github.com/hongwang01/RCDNet/tree/master/Performance_evaluation), based on Y channel of YCbCr space.
 
 ## Citation
 If you are interested in this work, please consider citing:
