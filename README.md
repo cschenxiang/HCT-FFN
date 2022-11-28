@@ -41,9 +41,14 @@ $ python main.py --save HCT-FFN --model hct-ffn --scale 2 --epochs 400 --batch_s
 $ cd ./code/
 $ python main.py --data_test RainHeavyTest  --ext img --scale 2  --data_range 1-1800/1-100 --pre_train ../experiment/HCT-FFN/model/model_best.pt --model hct-ffn --test_only --save_results --save HCT-FFN_test
 ```
-The pre-trained model can be available at ./experiment/HCT-FFN/model/.
+The pre-trained models are available at ./experiment/HCT-FFN/model/.
 
-All PSNR and SSIM results are computed by using this [Matlab code](https://github.com/hongwang01/RCDNet/tree/master/Performance_evaluation), based on Y channel of YCbCr space.
+## Derained Results
+If needed, please download from [Google Drive](https://drive.google.com/file/d/1fDb-JW--57K1Ing6z610wxF9YkEeyGu4/view?usp=sharing).
+
+## Performance Evaluation
+
+All PSNR and SSIM results are computed by using this [Matlab Code](https://github.com/hongwang01/RCDNet/tree/master/Performance_evaluation), based on Y channel of YCbCr space.
 
 ## Citation
 If you are interested in this work, please consider citing:
