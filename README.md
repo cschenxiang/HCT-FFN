@@ -44,7 +44,10 @@ $ python main.py --data_test RainHeavyTest  --ext img --scale 2  --data_range 1-
 The pre-trained models are available at ./experiment/HCT-FFN/model/.
 
 ## Derained Results
-If needed, please download from [Google Drive](https://drive.google.com/file/d/1fDb-JW--57K1Ing6z610wxF9YkEeyGu4/view?usp=sharing).
+If needed, please download from [Google Drive](https://drive.google.com/file/d/1La0CJWfVgCIXi8HoKhs5OcxTdcdjZkS4/view?usp=sharing).
+
+## Extension to Image Dehazing | Dehazed Results
+If needed, please download from [Google Drive](https://drive.google.com/file/d/1Hf73ojw47Qj15gYjfkAT1LTumCco11ME/view?usp=sharing).
 
 ## Performance Evaluation
 
